@@ -20,9 +20,7 @@ No external packages are needed.
 1. Save the code as `tictactoe.py`.
 2. Run it from the terminal:
 
-```bash
-python tictactoe.py
-```
+
 
 ## How to Play
 
