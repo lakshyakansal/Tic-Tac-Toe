@@ -466,7 +466,7 @@ By developing this project, you can gain practical experience with:
   <br/>
   Python | Artificial Intelligence | Algorithm Development
   <br/><br/>
-  <a href="https://github.com/">
+  <a href="https://github.com/lakshyakansal">
     GitHub
   </a>
 </p>
